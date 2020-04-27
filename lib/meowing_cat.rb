@@ -12,7 +12,7 @@ end
 class Cat 
   attr_writer :name 
   attr_reader :name 
-  
+end
 end 
 
 class Cat 
@@ -20,7 +20,7 @@ class Cat
 end
 
 def meow
-  puts "Meow" 
+  puts "Meow!" 
  end 
 end
 
