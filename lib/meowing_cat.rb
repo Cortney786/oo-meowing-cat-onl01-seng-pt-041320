@@ -1,22 +1,22 @@
 class Cat
 
-def cat=(name) 
-  @cat = name
+def name=(name) 
+  @name = name
  end 
 end 
 
-def cat 
-  @cat 
+def name
+  @name 
 end 
 
 class Cat 
-  attr_writer :cat 
-  attr_reader :cat 
+  attr_writer :name 
+  attr_reader :name 
   
 end 
 
 class Cat 
-  attr_accessor :cat 
+  attr_accessor :name
 end
 
 
