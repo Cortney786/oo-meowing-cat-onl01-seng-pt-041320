@@ -20,8 +20,6 @@ class Cat
 end
 
 
-cat = cat.new 
-cat.name = "name"
 
 
 
