@@ -1,7 +1,7 @@
 class Cat
 
-def cat=(cat) 
-  @cat = cat
+def cat=(name) 
+  @cat = name
  end 
 end 
 
