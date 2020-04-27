@@ -1,1 +1,3 @@
 class Cat
+
+def cat
