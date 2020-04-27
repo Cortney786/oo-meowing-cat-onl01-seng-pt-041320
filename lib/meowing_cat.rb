@@ -1,3 +1,6 @@
 class Cat
 
-def cat
+def cat=(cat) 
+  @cat 
+end 
+
