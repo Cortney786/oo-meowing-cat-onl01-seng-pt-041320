@@ -23,3 +23,8 @@ class Person
   attr_reader :name
  
 end
+
+class Person
+  attr_accessor :name
+ 
+end
