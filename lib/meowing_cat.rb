@@ -2,7 +2,7 @@ class Cat
 
 def cat=(cat) 
   @cat = cat
-end 
+ end 
 end 
 
 def cat 
